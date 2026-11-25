@@ -19,5 +19,17 @@
    "type": "image/png",
    "purpose": "any maskable"
   }
+ ],
+ "shortcuts": [
+  {
+   "name": "Идёт игра",
+   "short_name": "Игра",
+   "url": "./?go=live"
+  },
+  {
+   "name": "Статистика",
+   "short_name": "Стата",
+   "url": "./?go=stat"
+  }
  ]
 }
